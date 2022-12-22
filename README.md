@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish Tiwari
 - 👀 I’m interested in coding, creating web application
-- 🌱 I’m currently learning nestjs
+- 🌱 I’m currently learning nestjs, react-native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : manish.tiwari@actyv.com
 
